@@ -16,6 +16,7 @@ int main(void) {
     printf("Hello World!");
 }
 ```
+`printf("ABC");`
 
 |Bildiğim diller | Bilmediğim diller|
 | :--- |  ---: |
