@@ -4,7 +4,7 @@
 
 - **Git ve GitHub hakkında öğrendiklerim**
 - *Temel komutlar*
-* ***İlginç fotoğraflar***
+* ***Fotoğraf Yerleştirme***
 
 ![Fotoğraf yerleştirme](https://picsum.photos/250/250)
 
