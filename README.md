@@ -6,7 +6,7 @@
 - *Temel komutlar*
 * ***İlginç fotoğraflar***
 
-![İlginç Fotoğraflar](https://picsum.photos/250/250)
+![Fotoğraf yerleştirme](https://picsum.photos/250/250)
 
 ---
 ### Basit bir C kodu
